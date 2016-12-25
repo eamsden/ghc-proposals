@@ -29,7 +29,7 @@ like
   * Android
   * iOS
 
-There is a great deal of interest in targeting such devices. For instance, Plow Technologies,
+There is a great deal of interest in targeting such devices. For instance, <Company>
 a company using Haskell for almost all of its software, currently targets the Raspberry Pi by
 running an ARM-hosted ghc from QEMU.
 
