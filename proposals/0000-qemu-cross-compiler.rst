@@ -63,7 +63,7 @@ Drawbacks
 .. What are the reasons for *not* adopting the proposed change. These might include
 .. complicating the language grammar, poor interactions with other features, 
 
-Argle Bargle maintaining a cross compiler is hard.
+Maintaining a cross compiler is hard.
 
 Alternatives
 ------------
